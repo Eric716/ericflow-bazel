@@ -1,0 +1,2 @@
+Bootstrap:docker  
+From: eric716/ericflow-bazel:cuda10
